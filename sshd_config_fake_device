@@ -1,0 +1,8 @@
+Port 2222
+
+ListenAddress 127.0.0.1
+AllowUsers root cisco
+AuthenticationMethods publickey
+PasswordAuthentication no
+UsePAM yes
+PrintLastLog no
